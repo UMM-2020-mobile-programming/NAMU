@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NAMU - Napak Tilas Muhammadiyah</string>
+    <string name="lewati_perkenalan">Lewati Perkenalan</string>
+    <string name="perkenalan">Perkenalan</string>
+    <string name="now_touring">Now Touring</string>
+    <string name="now_tour_desc">Nikmati pengalaman study tour kilat  di fasilitas publik dan amal usaha  Muhammadiyah Malang</string>
+    <string name="schedules_desc">Ketahui jadwal rute  untuk mengetahui  arah perjalananmu</string>
+    <string name="schedules">Schedules</string>
+    <string name="book_now">Book Now</string>
+    <string name="book_now_desc">Tidak khawatir  kehabisan tiket di tempat</string>
+    <string name="cashless">Cashless</string>
+    <string name="cashless_desc">Transaksi lebih praktis  dengan e-wallet</string>
+    <string name="memulai">Memulai</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="daftar_akun">Daftar Akun</string>
+    <string name="daftar_akun_baru">Daftar Akun Baru</string>
+    <string name="masuk_akun">Masuk Akun</string>
+    <string name="sign_up">Sign Up</string>
+
+</resources>
